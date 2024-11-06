@@ -34,3 +34,26 @@ A unique task management web application designed to boost productivity through 
    ```bash
    git clone https://github.com/hariThorve/TaskManagerAI.git
    cd TaskManagerAI
+
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   Activate the virtual environment:
+
+3. Windows:
+   ```bash
+   .\venv\Scripts\activate
+4. Mac/Linux:
+   ```bash
+   source venv/bin/activate
+   
+5. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+6. Configure the Groq API:
+   Add your Groq API key in the .env file (you will need to create this file if it does not already exist).
+   Run the application:
+   ```bash
+   streamlit run app.py
+

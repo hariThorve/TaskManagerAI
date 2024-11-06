@@ -22,11 +22,11 @@ A unique task management web application designed to boost productivity through 
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python (using Streamlit)
+
+- **Frontend and Backend**: Python using Streamlit
 - **API**: Groq API for generating response texts
-- **Data Visualization**: Matplotlib / Plotly (for pie charts)
-- **Database**: SQLite / other database of choice (optional)
+- **Data Visualization**: Plotly (for pie charts)
+- **Database**: SQLite
 
 ## Installation
 

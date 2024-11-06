@@ -32,5 +32,5 @@ A unique task management web application designed to boost productivity through 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hariThorve/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/hariThorve/TaskManagerAI.git
+   cd TaskManagerAI
